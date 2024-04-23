@@ -63,6 +63,7 @@ main {
 
 .DC{
     line-height: 23px;
+    color: hsl(0, 0%, 81%);
 }
 
 .container2 {
@@ -74,10 +75,6 @@ main {
     background-color: hsl(217, 19%, 35%);
     color: hsl(0, 0%, 100%);
     flex-wrap: wrap;
-}
-
-.overjean{
-    width: 95%;
 }
 
 .JW{
@@ -93,6 +90,10 @@ main {
     background-color: hsl(0, 0%, 100%);
     color: hsl(219, 29%, 14%);
     overflow: auto;
+}
+
+.overjean{
+    width: 90%;
 }
 
 .JH{
